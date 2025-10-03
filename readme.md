@@ -31,8 +31,9 @@ This project includes a simple installation script (`install.sh`) that builds an
 1. Clone the repository:
 
 ```bash
-git clone https://git@github.com:Devesh-Jaiswal/mini_fzf_fast.git
-cd mini-fzf-fast
+git clone https://github.com/Devesh-Jaiswal/mini_fzf_fast.git
+cd mini_fzf_fast
+
 ```
 
 2. Make the install script executable and run it:
@@ -74,5 +75,3 @@ mini_fzf_fast ~/projects
 - Lightweight and fast — single-file C program with minimal dependencies.
 
 ---
-
-## License
